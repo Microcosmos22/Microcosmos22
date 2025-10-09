@@ -1,0 +1,54 @@
+<h1 align="center">👋 Hi, I'm Andres</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
+  <a href="https://YOUR_PERSONAL_WEBSITE.com" target="_blank">Website</a> •
+  <a href="https://YOUR_GAME_URL.com" target="_blank">Online Game</a> •
+  <a href="https://YOUR_TRADINGBOT_FRONTEND_URL.com" target="_blank">ML Trading Bot</a>
+</p>
+
+---
+
+### 🧠 About Me
+
+I'm a developer focused on **Machine Learning**, **algorithmic systems**, and **interactive applications**.  
+Currently exploring the intersection of **AI, data-driven modeling**, and **user-facing design**.  
+Mid-level engineer, open to contributing to open-source and research-driven projects.
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📄 Publications
+
+- [Paper Title 1](#) — *Conference/Journal Name*, Year  
+- [Paper Title 2](#) — *Conference/Journal Name*, Year  
+
+*(Add links or remove this section if not applicable)*
+
+---
+
+### 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Microcosmos22&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Microcosmos22&layout=compact&theme=tokyonight&hide_border=true" height="160">
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is only as intelligent as the questions we ask it to answer.”</i>
+</p>
