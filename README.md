@@ -17,9 +17,9 @@
 
 ### 🧠 About Me
 
-I'm a developer focused on **Machine Learning**, **algorithmic systems**, and **interactive applications**.  
-Currently exploring the intersection of **AI, data-driven modeling**, and **user-facing design**.  
-Mid-level engineer, open to contributing to open-source and research-driven projects.
+I'm a developer focused on **Data analysis**, **pythonic systems**, and **machine learning**.  
+Currently focusing on **open-source contributions and delivering a python library**.
+Physicist and junior-level engineer, open to contributing to open-source and research-driven projects.
 
 ---
 
@@ -30,8 +30,6 @@ Mid-level engineer, open to contributing to open-source and research-driven proj
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
