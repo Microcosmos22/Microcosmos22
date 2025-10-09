@@ -2,20 +2,17 @@
 
 <p align="center">
   <!-- Example layout using logos instead of text -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
+  
+  <a href="https://microcosmos22.github.io/" target="_blank">
+    <img src="https://github.com/Microcosmos22/Microcosmos22/blob/main/QUANTIC%20Logo.png" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://YOUR_PERSONAL_WEBSITE.com" target="_blank">
-    <img src="https://YOUR_LOGO_URL/website.svg" width="36" height="36" alt="Website"/>
+  <a href="[https://YOUR_GAME_URL.com](https://v2202501113287307394.goodsrv.de/breeze_client/index.html)" target="_blank">
+    <img src="https://github.com/Microcosmos22/Microcosmos22/blob/main/breeze-gliding-experience.png" width="50" height="50" alt="Online Game"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://YOUR_GAME_URL.com" target="_blank">
-    <img src="https://YOUR_LOGO_URL/game.svg" width="36" height="36" alt="Online Game"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://YOUR_TRADINGBOT_FRONTEND_URL.com" target="_blank">
-    <img src="https://YOUR_LOGO_URL/tradingbot.svg" width="36" height="36" alt="ML Trading Bot"/>
+  <a href="[https://YOUR_TRADINGBOT_FRONTEND_URL.com](https://v2202501113287307394.goodsrv.de/)" target="_blank">
+    <img src="https://github.com/Microcosmos22/Microcosmos22/blob/main/React-Logo-500x281" width="50" height="50" alt="ML Trading Bot"/>
   </a>
 </p>
 
