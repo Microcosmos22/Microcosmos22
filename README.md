@@ -1,10 +1,22 @@
 <h1 align="center">👋 Hi, I'm Andres</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="https://YOUR_PERSONAL_WEBSITE.com" target="_blank">Website</a> •
-  <a href="https://YOUR_GAME_URL.com" target="_blank">Online Game</a> •
-  <a href="https://YOUR_TRADINGBOT_FRONTEND_URL.com" target="_blank">ML Trading Bot</a>
+  <!-- Example layout using logos instead of text -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://YOUR_PERSONAL_WEBSITE.com" target="_blank">
+    <img src="https://YOUR_LOGO_URL/website.svg" width="36" height="36" alt="Website"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://YOUR_GAME_URL.com" target="_blank">
+    <img src="https://YOUR_LOGO_URL/game.svg" width="36" height="36" alt="Online Game"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://YOUR_TRADINGBOT_FRONTEND_URL.com" target="_blank">
+    <img src="https://YOUR_LOGO_URL/tradingbot.svg" width="36" height="36" alt="ML Trading Bot"/>
+  </a>
 </p>
 
 ---
