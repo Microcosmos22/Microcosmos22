@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Andres</h1>
 
-<p align="center"> <!-- Example layout using logos instead of text --> 
+<p align="center" style="background-color:#f2f2f2; padding:10px; border-radius:10px;">
   <a href="https://microcosmos22.github.io/" target="_blank"> 
     <img src="https://github.com/Microcosmos22/Microcosmos22/blob/main/QUANTIC%20Logo.png" height="60" alt="Website"/> 
   </a>
   &nbsp;&nbsp; 
   <a href="[https://YOUR_GAME_URL.com](https://v2202501113287307394.goodsrv.de/breeze_client/index.html)" target="_blank"> 
-    <img src="https://github.com/Microcosmos22/Microcosmos22/blob/main/breeze-gliding-experience.png" style="background-color:#f2f2f2" width="50" height="60" alt="Online Game"/> 
+    <img src="https://github.com/Microcosmos22/Microcosmos22/blob/main/breeze-gliding-experience.png" width="50" height="60" alt="Online Game"/> 
   </a> &nbsp;&nbsp; 
   <a href="[https://YOUR_TRADINGBOT_FRONTEND_URL.com](https://v2202501113287307394.goodsrv.de/)" target="_blank"> 
     <img src="https://github.com/Microcosmos22/Microcosmos22/blob/main/React-Logo-500x281.png" width="60" height="60" alt="ML Trading Bot"/> </a> 
