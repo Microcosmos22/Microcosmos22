@@ -19,10 +19,10 @@
 
 I'm a developer focused on **Data analysis**, **pythonic systems**, and **machine learning**.  
 - Currently creating a team for the BirdCLEF competition on Kaggle:
-  - https://www.kaggle.com/andreshzapke
+    - https://www.kaggle.com/andreshzapke
 -**Published a python library**: 
-  -https://pypi.org/project/marketML/
-  -https://github.com/Microcosmos22/TradeBot_public
+    -https://pypi.org/project/marketML/
+    -https://github.com/Microcosmos22/TradeBot_public
 Physicist and junior-level engineer, open to contributing to open-source and research-driven projects.
 
 ---
